@@ -1,0 +1,22 @@
+{
+  "name": "crispy",
+  "description": "Nice and crispy timesheet",
+  "version": "0.0.1",
+  "author": "George Anderson <guimaraes.george@gmail.com>",
+  "contributors": [
+    {
+      "name": "Diego Lovison",
+      "email": "diegolovison@gmail.com"
+    }
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": ""
+  },
+  "keywords": [
+    "crispy",
+    "ndoejs",
+    "timesheet"
+  ]
+}
