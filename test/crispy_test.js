@@ -3,7 +3,7 @@
 */
 
 var assert = require('assert')
-	, crispy = require('../lib/crispy.js');
+	, crispy = require('../lib/crispy');
 
 describe('Project', function() {
 	var cp = new crispy.Project();

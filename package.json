@@ -10,13 +10,19 @@
     }
   ],
   "dependencies": {
+    "express": "3.x"
   },
   "devDependencies": {
-    "mocha": ""
+    "mocha": "*",
+    "should": "*",
+    "supertest": "*"
   },
   "keywords": [
     "crispy",
-    "ndoejs",
+    "nodejs",
     "timesheet"
-  ]
+  ],
+  "scripts": {
+    "test": "make test"
+  }
 }
